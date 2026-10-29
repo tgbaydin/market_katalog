@@ -24,9 +24,23 @@ Türkiye'deki zincir marketlerin güncel aktüel ürün kataloglarını listeley
 
 ## 🚀 Kurulum ve Çalıştırma
 
-Projeyi yerel geliştirme ortamınızda çalıştırmak için:
+Projeyi yerel geliştirme ortamınızda çalıştırmak için aşağıdaki adımları izleyin.
 
 ### 1. Projeyi Klonlayın
+
 ```bash
-git clone [https://github.com/tgbaydin/market_katalog.git](https://github.com/tgbaydin/market_katalog.git)
+git clone https://github.com/tgbaydin/market_katalog.git
 cd market_katalog
+```
+
+### 2. Gerekli Bağımlılıkları Yükleyin
+
+```bash
+flutter pub get
+```
+
+### 3. Uygulamayı Başlatın
+
+```bash
+flutter run
+```
