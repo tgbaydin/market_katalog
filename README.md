@@ -1,17 +1,32 @@
-# market_katalog
+# 🛒 Market Katalog & Sepet Uygulaması
 
-A new Flutter project.
+Türkiye'deki zincir marketlerin güncel aktüel ürün kataloglarını listeleyen ve kullanıcıların indirimli ürünleri sepetlerine ekleyerek bütçelerini kolayca takip etmelerini sağlayan Flutter tabanlı mobil uygulama.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 Proje Özellikleri
 
-A few resources to get you started if this is your first Flutter project:
+* **Aktüel Ürün Katalogları:** Güncel haftalık market indirim broşürlerini görüntüleme.
+* **Sepet & Bütçe Yönetimi:** Kampanyalı ürünleri sepete ekleme, adet belirleme ve toplam sepet tutarını dinamik hesaplama.
+* **Kategori & Market Filtreleme:** İstenilen markete veya kategoriye özel ürün ve katalogları listeleme.
+* **Mobil Uyumlu Arayüz:** Modern, akıcı ve responsive tasarım.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Kullanılan Teknolojiler
+
+* **Framework:** Flutter
+* **Programlama Dili:** Dart
+* **Durum Yönetimi (State Management):** Provider / setState
+* **Tasarım:** Material Design bileşenleri
+
+---
+
+## 🚀 Kurulum ve Çalıştırma
+
+Projeyi yerel geliştirme ortamınızda çalıştırmak için:
+
+### 1. Projeyi Klonlayın
+```bash
+git clone [https://github.com/tgbaydin/market_katalog.git](https://github.com/tgbaydin/market_katalog.git)
+cd market_katalog
